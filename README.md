@@ -1,2 +1,2 @@
 # Unity-exercise-
-some unity script
+some unity scripts
